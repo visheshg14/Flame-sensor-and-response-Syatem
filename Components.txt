@@ -1,0 +1,6 @@
+KY-026 flame IR sensor
+ESP-WROOM-32
+Piezo Buzzer
+NPN transistor (BC337)
+mini Breadbroad
+Resistor(10K ohm)
